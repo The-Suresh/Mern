@@ -15,7 +15,7 @@ Before running this project, make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mern_stack_login.git
+git clone https://github.com/The-Suresh/Mern_Stack_Login_and_Signup_Page.git
 
 # Navigate to project directory
 cd mern_stack_login
