@@ -94,6 +94,18 @@ mern_stack_login/
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 
+## 📸 Screenshots
+
+### 🖼 Screenshot 1
+![Screenshot 1](./images/screenshot1.png)
+
+### 🖼 Screenshot 2
+![Screenshot 2](./images/screenshot2.png)
+
+### 🖼 Screenshot 3
+![Screenshot 3](./images/screenshot3.png)
+
+
 ## Important Notes
 
 - Make sure MongoDB is running before starting the server
