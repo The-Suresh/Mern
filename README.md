@@ -97,13 +97,13 @@ mern_stack_login/
 ## 📸 Screenshots
 
 ### 🖼 Screenshot 1
-![Screenshot 1](./images/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 
 ### 🖼 Screenshot 2
-![Screenshot 2](./images/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 
 ### 🖼 Screenshot 3
-![Screenshot 3](./images/screenshot3.png)
+![Screenshot 3](screenshot3.png)
 
 
 ## Important Notes
